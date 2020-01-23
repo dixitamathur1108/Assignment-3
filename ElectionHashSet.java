@@ -21,12 +21,12 @@ public class ElectionHashSet {
 		
 		System.out.println(party);
 		
-		/*ArrayList<String> arrlist = new ArrayList<String>();
+		ArrayList<String> arrlist = new ArrayList<String>();
 		ArrayList<String> commonDate=new ArrayList<String>();
-		System.out.println("These are the parties that have same date");*/
+		System.out.println("These are the parties that have same date");
 		
 		
-		/*for(ElectionParties e :party)
+		for(ElectionParties e :party)
 			{
 				if(arrlist.contains(e.getElectionDate()))
 				{
@@ -42,7 +42,7 @@ public class ElectionHashSet {
 		{
 			System.out.println(e1);
 		}
-	}*/
+	}
 
 	}
 }
